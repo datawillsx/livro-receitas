@@ -1,0 +1,9 @@
+# (APENAS TESTE: ARQUIVO CRIADO E MANIPULADO NO TERMINAL COM GIT )
+
+# STROGONOFF DE FRANGO
+
+### Ingreditentes
+
+
+### Modo de Preparo
+
